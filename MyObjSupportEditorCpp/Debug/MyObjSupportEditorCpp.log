@@ -1,0 +1,37 @@
+﻿  Model.cpp
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\Model.cpp(100,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\Model.cpp(122,48): warning C4838: Преобразование из "int" в "GLuint" требует сужающего преобразования.
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\Model.cpp(151,43): warning C4244: аргумент: преобразование "long double" в "const unsigned int", возможна потеря данных
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\Model.cpp(151,89): warning C4244: аргумент: преобразование "long double" в "const unsigned int", возможна потеря данных
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\Model.cpp(151,135): warning C4244: аргумент: преобразование "long double" в "const unsigned int", возможна потеря данных
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\Model.cpp(269,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\Model.cpp(496,65): warning C4244: аргумент: преобразование "T" в "GLfloat", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\Model.cpp(496,47): warning C4244: аргумент: преобразование "T" в "GLfloat", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\Model.cpp(496,29): warning C4244: аргумент: преобразование "T" в "GLfloat", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+  main.cpp
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\main.cpp(69,21): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\main.cpp(69,15): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\main.cpp(109,33): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\main.cpp(110,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\main.cpp(117,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\main.cpp(118,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\main.cpp(183,22): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\main.cpp(183,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\domri\source\repos\MyObjSupportEditorCpp\MyObjSupportEditorCpp\main.cpp(183,16): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+  Создание кода...
+LINK : warning LNK4098: библиотека по умолчанию "LIBCMT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: "" PDB не найден с "glew32s.lib(glew.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  MyObjSupportEditorCpp.vcxproj -> C:\Users\domri\source\repos\MyObjSupportEditorCpp\Debug\MyObjSupportEditorCpp.exe
